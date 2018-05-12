@@ -1,0 +1,87 @@
+_repo: First-Love--Little-Blue-Book--1195-And-Other-Fascinating-Stories-of-Spanish-Life_15610
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Alarcón, Pedro Antonio de
+    aliases:
+    - Alarcon, Pedro Antonio de
+    - Ariza, Pedro Antonio de Alarcón y
+    - De Alarcón, Pedro Antonio
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '6108'
+    url: http://www.gutenberg.org/2009/agents/6108
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+    - http://es.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+  - agent_name: Pardo Bazán, Emilia, condesa de
+    aliases:
+    - Bazán, Emilia, condesa de Pardo
+    - Bazán, Emilia Pardo, condesa de
+    - Pardo Bazan, Emilia, condesa de
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '6152'
+    url: http://www.gutenberg.org/2009/agents/6152
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+    - http://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+  - agent_name: Estébanez Calderón, Serafín
+    aliases:
+    - Calderón, Serafín Estébanez
+    - Estebanez Calderon, Serafin
+    birthdate: 1799
+    deathdate: 1867
+    gutenberg_agent_id: '6151'
+    url: http://www.gutenberg.org/2009/agents/6151
+  - agent_name: Hartzenbusch, Juan Eugenio
+    alias: De Hartzenbusch, Juan Eugenio
+    birthdate: 1806
+    deathdate: 1880
+    gutenberg_agent_id: '3746'
+    url: http://www.gutenberg.org/2009/agents/3746
+    wikipedia: http://en.wikipedia.org/wiki/Juan_Eugenio_Hartzenbusch
+  - agent_name: Palacio Valdés, Armando
+    aliases:
+    - Palacio Valdes, Armando
+    - Valdés, Armando Palacio
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Haldeman-Julius, E. (Emanuel)
+    aliases:
+    - Julius, Emanuel
+    - Haldeman-Julius, Emanuel
+    birthdate: 1888
+    deathdate: 1951
+    gutenberg_agent_id: '486'
+    url: http://www.gutenberg.org/2009/agents/486
+    wikipedia: http://en.wikipedia.org/wiki/E._Haldeman-Julius
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2005-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Spanish -- Translations into English'
+- !lcc 'PQ'
+tableOfContents: "First Love, by Pardo-Bazan.\r\nAn Andalusian Duel, by Serafin Estebanez\
+  \ Calderon.\r\nMariquita the Bald, by Hartzenbusch.\r\nThe Love of Clotilde, by\
+  \ Valdés.\r\nCaptain Veneno's Proposal of Marriage, by Alarcón."
+title: "First Love, and Other Fascinating Stories of Spanish Life\r\nLittle Blue Book\
+  \ No. 1195"
+url: http://www.gutenberg.org/ebooks/15610
