@@ -67,6 +67,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/486
     wikipedia: http://en.wikipedia.org/wiki/E._Haldeman-Julius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15610#First-Love--Little-Blue-Book--1195-And-Other-Fascinating-Stories-of-Spanish-Life
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2005-04-12'
 gutenberg_type: Text
